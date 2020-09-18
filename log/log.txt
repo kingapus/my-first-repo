@@ -1,0 +1,17 @@
+commit db2a149470d7e8faef9888bdf92ed12f6e7924be
+Author: kingapus <kingapus@yahoo.com>
+Date:   Fri Sep 18 19:43:28 2020 +0000
+
+    added gitignore
+
+commit d4ccd31de0371160b90d44b7c787c40fbdde33d4
+Author: kingapus <kingapus@yahoo.com>
+Date:   Fri Sep 18 14:03:57 2020 +0000
+
+    added 2 txt files
+
+commit ad57bca3a476c4f6e663ccad83a8e703216fea0d
+Author: kingapus <kingapus@yahoo.com>
+Date:   Fri Sep 18 13:40:07 2020 +0000
+
+    added readme.txt to reposity
